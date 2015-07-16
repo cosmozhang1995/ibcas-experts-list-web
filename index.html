@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>中科院专家列表</title>
+</head>
+<body>
+	<div class="alert" style="display:none;">糟了！<br/>数据出问题了！<br/>快去跟欧吧说！</div>
+	<div class="header">
+		<div class="toolbar">
+			<div class="toolbar-filter">
+				<select id="filter-career">
+					<option value="0">首席研究员</option>
+					<option value="1">研究员以上</option>
+					<option value="2" selected="selected">全部级别</option>
+				</select>
+			</div>
+		</div>
+		<div class="toolbar">
+			<div class="toolbar-filter">
+				<select id="filter-area">
+					<option value="0" selected="selected">北京</option>
+					<option value="1">其他地区</option>
+					<option value="2">全部地区</option>
+				</select>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="notice">只收录了首席研究员（组长）、研究员和副研究员。</div>
+		<div class="lists">
+			<div class="list collapsed">
+				<div class="list-title">
+					<span>哈哈哈哈</span>
+					<span class="icon-arrow"></span>
+				</div>
+				<div class="list-list">
+					<div class="item">
+						<div class="name">
+							<span class="name-name">张家治</span>
+							<span class="name-title">男盆友</span>
+						</div>
+						<div class="email">
+							<div class="prop"><span>邮箱</span></div>
+							<div class="value">
+								<ul class="plain">
+									<li><a href="cosmozhang1995@gmail.com">cosmozhang1995@gmail.com</a></li>
+									<li><a href="zjzxz3006@126.com">zjzxz3006@126.com</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="interest">
+							<div class="prop"><span>方向</span></div>
+							<div class="value">
+								<ul>
+									<li><span>互联网技术</span></li>
+									<li><span>通信原理与交换技术</span></li>
+									<li><span>大数据与数据挖掘</span></li>
+								</ul>
+							</div>
+						</div>
+						<div class="source-page">
+							<a href="{link}">进入主页</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+<script type="text/rawdata" src="raw.txt"></script>
+<script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript" src="main.js"></script>
+</html>

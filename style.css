@@ -1,0 +1,154 @@
+html, body {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	font-size: 0px;
+}
+
+.alert {
+	font-size: 20px;
+	color: red;
+	font-weight: bolder;
+}
+
+.header {
+	display: block;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	height: 60px;
+	background-color: white;
+}
+.header .toolbar {
+	height: 20px;
+	padding: 5px 0px;
+	margin: 0px 10px;
+}
+.header .toolbar .toolbar-filter {
+}
+.header .toolbar .toolbar-filter select {
+	width: 100%;
+}
+
+.container {
+	margin-top: 60px;
+}
+.notice {
+	font-size: 12px;
+	font-style: italic;
+	color: #666;
+	margin: 10px;
+}
+.lists {
+}
+.lists .list {
+	margin: 10px;
+	border-radius: 5px;
+	border: 1px #999 solid;
+	box-shadow: 0px 0px 8px -3px;
+}
+.lists .list.collapsed .list-list {
+	display: none;
+}
+.lists .list .list-title {
+	height: 30px;
+	line-height: 30px;
+	padding: 0px 10px;
+	background-color: #6f5499;
+	font-size: 14px;
+	font-weight: bold;
+	color: white;
+}
+.lists .list .list-title .icon-arrow {
+	height: 10px;
+	width: 16px;
+	height: 16px;
+	position: relative;
+	float: right;
+	top: 7px;
+	background-image: url(img/arrow_triangle-up.png);
+}
+.lists .list.collapsed .list-title .icon-arrow {
+	background-image: url(img/arrow_triangle-down.png);
+}
+.lists .list .list-list .item {
+	display: block;
+	border-top: 1px #999 solid;
+	padding: 10px;
+	color: inherit;
+	text-decoration: none;
+}
+.lists .list .list-list .item:active {
+	color: inherit;
+	text-decoration: none;
+}
+.lists .list .list-list .item:link {
+	color: inherit;
+	text-decoration: none;
+}
+.lists .list .list-list .item:visited {
+	color: inherit;
+	text-decoration: none;
+}
+.lists .list .list-list .item:hover {
+	color: inherit;
+	text-decoration: none;
+}
+.lists .list .list-list .item .name,
+.lists .list .list-list .item .email,
+.lists .list .list-list .item .interest {
+	margin-bottom: 10px;
+}
+.lists .list .list-list .item .name {
+	line-height: 14px;
+	margin-bottom: 10px;
+}
+.lists .list .list-list .item .name .name-name {
+	font-size: 14px;
+	margin-right: 5px;
+	color: black;
+	font-weight: bold;
+}
+.lists .list .list-list .item .name .name-title {
+	font-size: 12px;
+	margin-right: 5px;
+	color: #999;
+}
+.lists .list .list-list .item .source-page {
+	line-height: 20px;
+	font-size: 12px;
+}
+.lists .list .list-list .item .prop {
+	float: left;
+	width: 40px;
+	font-size: 12px;
+	color: #333;
+	white-space: nowrap;
+	line-height: 20px;
+}
+.lists .list .list-list .item .value {
+	margin-left: 45px;
+	font-size: 12px;
+	color: #333;
+	white-space: normal;
+	line-height: 20px;
+}
+
+ul {
+	padding-left: 20px;
+}
+ul.plain {
+	padding-left: 0px;
+}
+ul.plain li {
+	list-style-type:none;
+}
+
+.hidden {
+	display: none !important;
+}
