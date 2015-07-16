@@ -20,7 +20,9 @@ function parseRaw(raw_data) {
 		item = {};
 
 		row = rows[0].trim();
-		item.name = row;
+		item.name = row.replace(/\!/g, '');
+		if (row.indexOf('!') >= 0) item.active = false;
+		else item.active = true;
 
 		row = rows[1].trim();
 		if (row == "none") item.titles = [];
@@ -141,6 +143,8 @@ function getFilter() {
 	};
 }
 function validateItem(item, filter) {
+	if (!item.active) return false;
+
 	var validate_results = {
 		career: false,
 		area: false
