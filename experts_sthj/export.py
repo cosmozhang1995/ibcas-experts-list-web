@@ -9,9 +9,12 @@ members = member_collection.find()
 
 for member in members:
     print member['name']
-    print ' '.join(member['titles'])
-    print member['emails']
+    titles = ' '.join(member['titles'])
+    print titles if not titles == "" else "none"
+    emails = member['emails']
+    print emails if not emails == "" else "none"
     print u"生态环境研究中心"
-    print member['interests']
+    interests = member['interests']
+    print interests if not interests == "" else "none"
     print member['link']
     print ""

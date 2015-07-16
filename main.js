@@ -151,7 +151,7 @@ function validateItem(item, filter) {
 	};
 
 	// career
-	if (item.titles.indexOf('首席研究员') >= 0) validate_results.career = true;
+	if ((item.titles.indexOf('首席研究员') >= 0) || (item.titles.indexOf('院士') >= 0)) validate_results.career = true;
 	else if ((item.titles.indexOf('研究员') >= 0) && (filter.career >= 1)) validate_results.career = true;
 	else if ((item.titles.indexOf('副研究员') >= 0) && (filter.career >= 2)) validate_results.career = true;
 
