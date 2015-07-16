@@ -94,7 +94,7 @@ function inflateData(data, area) {
 									'</div>' +
 								'</div>' +
 								'<div class="source-page">' +
-									'<a href="{link}">进入主页</a>' +
+									'<a target="_blank" href="{link}">进入主页</a>' +
 								'</div>' +
 							'</div>';
 
