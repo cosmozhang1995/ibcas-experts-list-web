@@ -492,7 +492,7 @@ http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038170.html
 副研究员
 bwen@rcees.ac.cn
 生态环境研究中心
-none
+土壤环境中持久性有毒化学物质（重金属和有机污染物）的环境化学行为和生物有效性研究
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038237.html
 
 吴钢!
@@ -513,7 +513,7 @@ http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038284.html
 副研究员
 xiaoyi@rcees.ac.cn
 生态环境研究中心
-none
+生态评价与信息系统
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038255.html
 
 徐卫华!
@@ -541,7 +541,7 @@ http://sourcedb.rcees.cas.cn/zw/zjrck/201006/t20100612_2880291.html
 副研究员
 yyan@rcees.ac.cn
 生态环境研究中心
-none
+生态规划、环境管理生态规划、环境管理
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038254.html
 
 杨建新!
@@ -555,7 +555,7 @@ http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038150.html
 副研究员
 jzhyang@rcees.ac.cn
 生态环境研究中心
-none
+废水处理与资源化
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038169.html
 
 杨敏!
@@ -586,7 +586,7 @@ ybyu@rcees.ac.cn
 环境催化、大气污染控制
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038236.html
 
-战爱斌!
+战爱斌
 研究员
 azhan@rcees.ac.cn
 生态环境研究中心
@@ -639,7 +639,7 @@ http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038275.html
 研究员
 szzhang@rcees.ac.cn
 生态环境研究中心
-none
+通过分析化学、环境化学、土壤学和植物学等多学科的交叉研究重金属和持久性有机污染物的环境化学行为
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038263.html
 
 张晓山!
@@ -688,7 +688,7 @@ http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038156.html
 研究员
 ghliu@rcees.ac.cn
 生态环境研究中心
-none
+区域生态、全球变化和碳循环、退化生态系统重建
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038155.html
 
 刘会娟!
@@ -789,11 +789,11 @@ jhqu@rcees.ac.cn
 水质转化机制与水污染控制技术研究
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038281.html
 
-曲来叶!
+曲来叶
 副研究员
 lyqu@rcees.ac.cn
 生态环境研究中心
-none
+植物生理生态、主要从事扰动环境对植物的影响以及植物对环境响应机制的研究，包括植物生理生态的特性%01植物地上地下相关性，以及根际微生物（固氮菌%01菌根菌）与植物的相互关系的研究。
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038259.html
 
 盛治国!
@@ -828,7 +828,7 @@ http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038243.html
 副研究员
 yajuanshi@rcees.ac.cn
 生态环境研究中心
-none
+污染生态学
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038257.html
 
 束继年!
@@ -842,7 +842,7 @@ http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038218.html
 研究员
 smsong@rcees.ac.cn
 生态环境研究中心
-环境分析化学和环境毒理学
+环境分析化学、环境毒理学
 http://sourcedb.rcees.cas.cn/zw/zjrck/201006/t20100612_2880251.html
 
 苏贵金!
@@ -856,21 +856,21 @@ http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038242.html
 副研究员
 rhsun@rcees.ac.cn
 生态环境研究中心
-景观地理学、遥感与 GIS
+景观地理学、遥感与GIS
 http://sourcedb.rcees.cas.cn/zw/zjrck/201408/t20140819_4187632.html
 
 汤鸿霄!
 院士 研究员
 tanghx@rcees.ac.cn
 生态环境研究中心
-none
+环境工程学、环境水质学
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038280.html
 
 刘文彬!
 研究员
 liuwb@rcees.ac.cn
 生态环境研究中心
-none
+围绕我国履行POPs公约的需求及国际环境科学研究的前沿
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038246.html
 
 刘云霞!
@@ -880,42 +880,42 @@ none
 none
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038224.html
 
-罗维!
+罗维
 副研究员
 luow@rcees.ac.cn
 生态环境研究中心
 区域生态风险评价与管理
 http://sourcedb.rcees.cas.cn/zw/zjrck/200909/t20090917_2492068.html
 
-吕楠!
+吕楠
 助理研究员
 nanlv@rcees.ac.cn
 生态环境研究中心
 生态系统碳水服务、气候变化与水文
 http://sourcedb.rcees.cas.cn/zw/zjrck/201205/t20120507_3573028.html
 
-吕一河!
+吕一河
 研究员
 lyh@rcees.ac.cn
 生态环境研究中心
-none
+自然地理学、景观生态学
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038260.html
 
-吕永龙!
+吕永龙
 研究员
 yllu@rcees.ac.cn yllu@cashq.ac.cn
 生态环境研究中心
 环境管理与政策、区域污染的生态效应
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038271.html
 
-马克明!
+马克明
 研究员
 mkm@rcees.ac.cn
 生态环境研究中心
 landscape ecology、biological conservation、ecological restoration、urban ecology、ecological modeling
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038154.html
 
-马梅!
+马梅
 研究员
 mamei@rcees.ac.cn
 生态环境研究中心
@@ -940,7 +940,7 @@ http://sourcedb.rcees.cas.cn/zw/zjrck/201408/t20140818_4186757.html
 研究员
 zyouyang@rcees.ac.cn
 生态环境研究中心
-none
+生态系统服务功能、生态规划、生态评价
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038153.html
 
 潘纲!
@@ -1052,7 +1052,7 @@ http://sourcedb.rcees.cas.cn/zw/zjrck/201010/t20101019_2989814.html
 研究员
 cyjing@rcees.ac.cn
 生态环境研究中心
-none
+环境分子、界面化学过程
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038227.html
 
 康跃惠!
@@ -1118,7 +1118,7 @@ zhaoxu@rcees.ac.cn
 水处理物化技术原理和应用
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038164.html
 
-郑华!
+郑华
 研究员
 zhenghua@rcees.ac.cn
 生态环境研究中心
@@ -1153,7 +1153,7 @@ zhouqf@rcees.ac.cn
 新型环境污染物毒理学效应研究
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038182.html
 
-周伟奇!
+周伟奇
 研究员
 wzhou@rcees.ac.cn
 生态环境研究中心
@@ -1164,7 +1164,7 @@ http://sourcedb.rcees.cas.cn/zw/zjrck/201201/t20120105_3422676.html
 研究员
 bzhu@rcees.ac.cn
 生态环境研究中心
-none
+自由基与过渡金属离子化学和毒理学、复合环境污染物协同毒性机理
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038197.html
 
 朱建新!
@@ -1181,14 +1181,14 @@ ygzhu@rcees.ac.cn
 土壤-植物相互作用、根际、污染生态学、土壤生物学
 http://sourcedb.rcees.cas.cn/zw/zjrck/200906/t20090612_1038277.html
 
-祝贵兵!
+祝贵兵
 研究员
 gbzhu@rcees.ac.cn
 生态环境研究中心
 水环境微生物过程、微生物氮循环过程
 http://sourcedb.rcees.cas.cn/zw/zjrck/201006/t20100612_2880310.html
 
-庄国强!
+庄国强
 研究员
 gqzhuang@rcees.ac.cn
 生态环境研究中心
